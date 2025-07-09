@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Akhilesh Mohanasundaram
+# 👋 Hi, I’m Subhayu Ghoshal
 ## 🚀 About Me
-I’m a passionate Computer Science student specializing in Artificial Intelligence at MSIT, Kolkata. I have a strong foundation in object-oriented programming, data structures & algorithms, Data Science and machine learning**.
+I’m a passionate Computer Science student at MSIT, Kolkata. I have a strong foundation in object-oriented programming, data structures & algorithms, Data Science and machine learning**.
 
 ## 🎯 Interests
 - 🤖 **AI & Machine Learning**
